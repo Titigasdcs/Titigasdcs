@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🦌 Tiago  
+## 🦌 Tiago  
 IF Sul de Minas  
 Dev em formação.
 
