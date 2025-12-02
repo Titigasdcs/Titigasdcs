@@ -1,17 +1,9 @@
 <div align="center">
 
-<!-- NEVE PESADA -->
-<img src="https://raw.githubusercontent.com/itsksaurabh/Christmas-Special/master/assets/snow-fall.gif" width="100%" />
-
-<!-- BANNER NATALINO VERMELHO -->
-<img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/header.gif" width="100%" />
-
 ### 🦌 Tiago  
 IF Sul de Minas  
 Dev em formação.
 
-<!-- DIVISOR DE NATAL -->
-<img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/lights-long.gif" width="100%" />
 
 ---
 
@@ -62,8 +54,6 @@ Dev em formação.
 
 ---
 
-<!-- NEVE FINAL -->
-<img src="https://raw.githubusercontent.com/itsksaurabh/Christmas-Special/master/assets/snow-fall.gif" width="100%" />
 
 [![](https://visitcount.itsvg.in/api?id=Titigasdcs&icon=3&color=1)](https://visitcount.itsvg.in)
 
