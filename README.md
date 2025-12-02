@@ -1,44 +1,73 @@
 <div align="center">
 
-### Tiago  
+<!-- NEVE PESADA -->
+<img src="https://raw.githubusercontent.com/itsksaurabh/Christmas-Special/master/assets/snow-fall.gif" width="100%" />
+
+<!-- BANNER NATALINO VERMELHO -->
+<img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/header.gif" width="100%" />
+
+### 🦌 Tiago  
 IF Sul de Minas  
 Dev em formação.
 
+<!-- DIVISOR DE NATAL -->
+<img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/lights-long.gif" width="100%" />
 
-## ✠ Socials
-[![Instagram](https://img.shields.io/badge/Instagram-0A2540?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/titigas.dcs)
-[![X](https://img.shields.io/badge/X-0A2540?style=for-the-badge&logo=x&logoColor=white)](https://x.com/coadozre)
-[![Email](https://img.shields.io/badge/Email-0A2540?style=for-the-badge&logo=gmail&logoColor=white)](mailto:titigasrze@gmail.com)
+---
 
+## 🎄 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-B30000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/titigas.dcs)
+[![X](https://img.shields.io/badge/X-B30000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/coadozre)
+[![Email](https://img.shields.io/badge/Email-B30000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:titigasrze@gmail.com)
 
-# ✠ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-0A2540?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A2540?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0A2540?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A2540?style=for-the-badge&logo=javascript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-0A2540?style=for-the-badge&logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0A2540?style=for-the-badge&logo=django&logoColor=white)
+---
 
+# ❄️ Tech Stack
 
-# ✠ GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Titigasdcs&theme=blue_navy&hide_border=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Titigasdcs&theme=blue_navy&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Titigasdcs&theme=blue_navy&hide_border=false&layout=compact)
+<!-- NEVE SUAVE -->
+<img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/snow.gif" width="220" />
 
+![HTML5](https://img.shields.io/badge/HTML5-B30000?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B30000?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-B30000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B30000?style=for-the-badge&logo=javascript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-B30000?style=for-the-badge&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-B30000?style=for-the-badge&logo=django&logoColor=white)
 
-# ✠ GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Titigasdcs&theme=algolia&no-frame=true&margin-w=8)
+---
 
+# ☃️ GitHub Stats
 
-# ✠ Rob Zombie Dev Quote
-> *“Vampire Lovers and a Wild Bikini say uh-huh, uh-huh, uh-huh  
-> Cannibal Man and a Jungle Girl say uh-huh, uh-huh, uh-huh”*
+<img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/lights.gif" width="240" />
 
+![](https://github-readme-stats.vercel.app/api?username=Titigasdcs&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Titigasdcs&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Titigasdcs&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# ✠ Top Contributed Repo
+---
+
+# 🎶 Last Christmas  
+
+<img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/snow-fall.gif" width="260" />
+
+> *Last Christmas, I gave you my heart  
+> But the very next day, you gave it away (you gave it away)*
+
+---
+
+# 🎁 Top Contributed Repo  
+<img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/wreath.gif" width="160" />
+
 ![](https://github-contributor-stats.vercel.app/api?username=Titigasdcs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+
+<!-- NEVE FINAL -->
+<img src="https://raw.githubusercontent.com/itsksaurabh/Christmas-Special/master/assets/snow-fall.gif" width="100%" />
 
 [![](https://visitcount.itsvg.in/api?id=Titigasdcs&icon=3&color=1)](https://visitcount.itsvg.in)
 
 </div>
+
+
+
