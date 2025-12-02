@@ -14,7 +14,7 @@ Dev em formação.
 
 ---
 
-# ❄️ Tech Stack
+## ❄️ Tech Stack
 
 <!-- NEVE SUAVE -->
 <img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/snow.gif" width="220" />
@@ -28,7 +28,7 @@ Dev em formação.
 
 ---
 
-# ☃️ GitHub Stats
+## ☃️ GitHub Stats
 
 <img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/lights.gif" width="240" />
 
@@ -38,7 +38,7 @@ Dev em formação.
 
 ---
 
-# 🎶 Last Christmas  
+## 🎶 Last Christmas  
 
 <img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/snow-fall.gif" width="260" />
 
@@ -47,7 +47,7 @@ Dev em formação.
 
 ---
 
-# 🎁 Top Contributed Repo  
+## 🎁 Top Contributed Repo  
 <img src="https://raw.githubusercontent.com/Akshay090/Christmas-Special/master/assets/wreath.gif" width="160" />
 
 ![](https://github-contributor-stats.vercel.app/api?username=Titigasdcs&limit=5&theme=dark&combine_all_yearly_contributions=true)
