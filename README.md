@@ -8,9 +8,9 @@ Dev em formação.
 ---
 
 ##  Socials
-[![Instagram](https://img.shields.io/badge/Instagram-9ebff5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/titigas.dcs)
-[![X](https://img.shields.io/badge/X-9ebff5?style=for-the-badge&logo=x&logoColor=white)](https://x.com/coadozre)
-[![Email](https://img.shields.io/badge/Email-9ebff5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:titigasrze@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-4a6e02?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/titigas.dcs)
+[![X](https://img.shields.io/badge/X-4a6e02?style=for-the-badge&logo=x&logoColor=white)](https://x.com/coadozre)
+[![Email](https://img.shields.io/badge/Email-4a6e02?style=for-the-badge&logo=gmail&logoColor=white)](mailto:titigasrze@gmail.com)
 
 ---
 
